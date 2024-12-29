@@ -1,47 +1,62 @@
 # Whispers of the Enigma
 
-**Whispers of the Enigma** is a heart-pounding VR escape room game with a horror theme. Prepare to immerse yourself in a chilling hospital setting where danger lurks around every corner, and your wits are your only hope of survival.
+**Whispers of the Enigma** is a heart-pounding VR escape room game set in a sinister hospital environment. Solve challenging puzzles, evade a relentless enemy, and uncover dark secrets to escape before it's too late.
 
 ---
 
-## 🎥 Watch the Official Trailer  
-Experience the terror firsthand by watching the trailer:  
+## 🎮 Game Features
+- **Immersive VR Gameplay**: Full VR support with motion controller interactions.  
+- **Dynamic Horror Atmosphere**: Experience the terror of a chilling hospital setting.  
+- **Challenging Puzzles**: Test your logic and problem-solving skills to progress.  
+- **Intelligent Enemy AI**: Stay one step ahead of a relentless pursuer.  
+- **Engaging Storyline**: Dive deep into the mysterious lore of the enigma.
+
+---
+
+## 🌌 Story Synopsis
+You wake up in a seemingly abandoned hospital, haunted by a sinister presence. The walls whisper secrets, and the environment hides clues. Can you solve the puzzles and escape, or will the hospital claim another victim?
+
+---
+
+## 🎥 Watch the Trailer  
+Check out the official trailer for a sneak peek:  
 [![Watch the Trailer](https://img.youtube.com/vi/lBxNnFKvXoY/0.jpg)](https://www.youtube.com/watch?v=lBxNnFKvXoY)  
-Click [here](https://www.youtube.com/watch?v=lBxNnFKvXoY) to watch now!
+Click [here](https://www.youtube.com/watch?v=lBxNnFKvXoY) to watch.
 
 ---
 
-## 🕹️ About the Game  
-Step into the shoes of a desperate escapee trapped in a nightmarish hospital, stalked by an unforgiving enemy. **Whispers of the Enigma** combines immersive VR mechanics, a chilling atmosphere, and challenging puzzles to deliver a uniquely terrifying escape room experience.
-
-### Key Features:
-- **Intense Horror Atmosphere**: Explore a haunting hospital where every shadow and sound heightens your fear.  
-- **VR Immersion**: Interact with the environment using realistic hand gestures for a deeply engaging experience.  
-- **Puzzles and Strategy**: Solve intricate, mind-bending puzzles to progress while staying one step ahead of your pursuer.  
-- **Dynamic Enemy AI**: Outsmart a relentless enemy that reacts to your movements and decisions.  
-- **Story-Driven Experience**: Uncover the sinister secrets of the enigma while piecing together your own backstory.
+## 📥 Download & Play  
+Play **Whispers of the Enigma** now on [Itch.io](https://gamix-esprit.itch.io/whispers-of-the-enigma):  
+👉 [Download Here](https://gamix-esprit.itch.io/whispers-of-the-enigma)
 
 ---
 
-## 🌌 Story Overview  
-Waking up in a desolate hospital, you find yourself hunted by a shadowy figure with malicious intent. The walls whisper secrets, and the environment holds clues to your escape. Time is running out—can you unravel the enigma's dark truths, solve its puzzles, and find freedom, or will you succumb to the hospital’s malevolent forces?
-
----
-
-## 🛠️ VR Requirements  
-- **Supported Platforms**: Oculus Rift, HTC Vive, Valve Index, and other SteamVR-compatible headsets  
-- **Room Scale**: Recommended for an optimal experience  
+## 🛠️ System Requirements
+- **VR Platforms**: Oculus Rift, HTC Vive, Valve Index, or SteamVR-compatible headsets  
+- **Room Scale**: Recommended for optimal gameplay  
 - **Input**: Motion controllers required  
+- **PC Specs**:
+  - Processor: Intel i5 or equivalent  
+  - Graphics: NVIDIA GTX 1060 or better  
+  - RAM: 8 GB or higher  
 
 ---
 
-## 📜 How to Play  
-1. **Interact**: Use your motion controllers to pick up objects, solve puzzles, and uncover hidden clues.  
-2. **Stay Alert**: Use your wits to avoid being caught by the pursuer. Stealth and quick thinking are key to survival.  
-3. **Solve Puzzles**: Unlock doors, decipher cryptic messages, and piece together the story.  
-4. **Escape**: Find your way out before it’s too late!  
+## 🚀 Getting Started
+1. Download the game from [Itch.io](https://gamix-esprit.itch.io/whispers-of-the-enigma).  
+2. Set up your VR headset and ensure SteamVR is installed and running.  
+3. Launch the game and dive into the experience!
+
+---
+
+## 🛠️ Development Tools
+**Whispers of the Enigma** was created using:  
+- **Unity**: For VR development and immersive gameplay.  
+- **SteamVR SDK**: For VR compatibility and input.  
+- **Blender**: For creating high-quality 3D assets.
 
 ---
 
 
-**Will you escape the clutches of this nightmarish hospital or succumb to its dark forces?**
+
+**Will you escape the enigma's dark grip or fall victim to the hospital's sinister forces?**
